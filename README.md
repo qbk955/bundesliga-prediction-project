@@ -6,7 +6,8 @@ This project focuses on predicting the outcomes of Bundesliga football matches u
 
 ## Presentation Video
 
-[![Watch the video](https://img.youtube.com/vi/Hqag5bJDc-E/maxresdefault.jpg)](https://youtu.be/Hqag5bJDc-E)
+[![Watch the video](![image](https://github.com/user-attachments/assets/1357cc08-cd9e-4da9-9e73-419b41e5026b)
+)](https://youtu.be/Hqag5bJDc-E)
 
 Click the thumbnail to watch the presentation on YouTube.
 
