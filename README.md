@@ -4,12 +4,13 @@
 
 This project focuses on predicting the outcomes of Bundesliga football matches using data analysis and machine learning techniques. The primary goal is to develop a predictive model that can forecast match results based on historical data, team statistics, and player performance. I strongly advise to watch my presentation about this project to understand it better.
 
+
+
 ## Presentation Video
 
-[![Watch the video](![image](https://github.com/user-attachments/assets/1357cc08-cd9e-4da9-9e73-419b41e5026b)
-)](https://youtu.be/Hqag5bJDc-E)
+[![Watch the video](https://github.com/user-attachments/assets/1357cc08-cd9e-4da9-9e73-419b41e5026b)](https://youtu.be/Hqag5bJDc-E)
 
-Click the thumbnail to watch the presentation on YouTube.
+Click the image to watch the presentation on YouTube.
 
 ### Motivation
 
